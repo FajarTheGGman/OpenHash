@@ -12,3 +12,7 @@
 3.cd OpenHash
 
 4.php openhash.php
+
+
+# Buy Me Some Coffe :)
+![donate](https://raw.githubusercontent.com/FajarTheGGman/F-Tools/master/.images/donate.jpeg)
